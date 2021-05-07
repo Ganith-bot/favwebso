@@ -1,0 +1,17 @@
+body {
+text-align: center;
+    
+}
+#intro {
+    padding-bottom: 100px;
+    padding-top: 500px;
+}
+.home {
+        background: rgb(174,210,238);
+background: radial-gradient(circle, rgba(174,210,238,1) 0%, rgba(57,69,158,1) 100%);
+    text-align: center;
+}
+.work {
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 10%, rgba(253,205,29,1) 60%, rgba(252,210,69,1) 100%);
+}
